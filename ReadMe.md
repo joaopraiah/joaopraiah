@@ -1,5 +1,5 @@
 # 👋 Sobre mim:
-<br>Olá! Sou um desenvolvedor apaixonado por tecnologia, sempre explorando novas ferramentas e aprimorando minhas habilidades. Atualmente, estou cursando Sistemas da Informação e já tive a oportunidade de trabalhar em projetos utilizando:<br><br>Frontend: HTML, CSS, JavaScript, ReactJS<br>Backend: PHP, Python<br>Outras Linguagens: C#<br>Adoro transformar ideias em soluções funcionais e estou sempre aberto a colaborar em projetos desafiadores. Vamos construir algo incrível juntos! 🚀<br><br>📫 Entre em contato comigo:<br><a href="https://www.linkedin.com/in/joaopraiaah/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+<br>Olá! Sou um desenvolvedor apaixonado por tecnologia, sempre explorando novas ferramentas e aprimorando minhas habilidades. Atualmente, estou cursando Sistemas da Informação e já tive a oportunidade de trabalhar em projetos utilizando:<br><br>Frontend: HTML, CSS, JavaScript, ReactJS<br>Backend: Node.js,PHP, Python<br>Outras Linguagens: C#<br>Adoro transformar ideias em soluções funcionais e estou sempre aberto a colaborar em projetos desafiadores. Vamos construir algo incrível juntos! 🚀<br><br>📫 Entre em contato comigo:<br><a href="https://www.linkedin.com/in/joaopraiaah/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 <br>Email: joaopraiah@gmail.com
 
 
